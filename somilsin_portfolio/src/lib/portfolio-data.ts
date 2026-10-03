@@ -56,27 +56,27 @@ export const chapters: Chapter[] = [
       },
       {
         title: "Deep Learning & Computer Vision",
-        meta: "github.com/somilsin/Deep-Learning_Computer-Vision",
+        meta: "github.com/somilsin/Machine-Learning/tree/main/Deep-Learning_Computer-Vision",
         body: "From-scratch CMU, Stanford and MIT coursework: fully-connected and convolutional digit classifiers, CNN facial detection with a debiasing variational autoencoder (DB-VAE), and nnkit, a NumPy and SciPy neural network engine with hand-derived backward passes and no autograd.",
       },
       {
         title: "Transformers & Large Language Models",
-        meta: "github.com/somilsin/Transformers_Large-Language-Models",
+        meta: "github.com/somilsin/Machine-Learning/tree/main/Transformers_Large-Language-Models",
         body: "From-scratch implementations documenting a progression through advanced machine learning from Stanford, CMU and MIT curricula: character-level RNN/LSTM music generation and LoRA fine-tuning of a chat model with LLM-as-a-judge evaluation.",
       },
       {
         title: "BehaviorAI",
-        meta: "github.com/somilsin/behaviorai-lovexai · Top 5 winner",
+        meta: "github.com/somilsin/Artificial-Intelligence/tree/main/behaviorai-lovexai · Top 5 winner",
         body: "AI behavioural-change engine built with Claude for the Softway LoveXAI Hackathon 2026, one of 5 winners from 1,000+ applicants and 20 finalists.",
       },
       {
         title: "Indian ANPR",
-        meta: "github.com/somilsin/Indian-ANPR",
+        meta: "github.com/somilsin/Computer-Vision/tree/main/Indian-ANPR",
         body: "Automatic number plate recognition for Indian vehicles using pytesseract OCR, MySQL and Twilio — plate extraction, owner, model and registration validity checks, and SMS alerts for expired or invalid registrations.",
       },
       {
         title: "Object Detection using SSD",
-        meta: "github.com/somilsin/Object-Detection-using-SSD",
+        meta: "github.com/somilsin/Computer-Vision/tree/main/Object-Detection-using-SSD",
         body: "Customised Single Shot Detector for an automated self-driving car on the WIRIN dataset, integrated with the vehicle through a companion app.",
       },
       {

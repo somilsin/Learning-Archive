@@ -11,7 +11,7 @@
 
 ## 🔎 What I keep here
 
-I keep my earlier exercises and small projects here so I can revisit the decisions I made while learning. Some are course exercises and others are practical experiments. I retain the original sources and licenses where they apply.
+I keep my exercises, earlier projects and work outside my three main technical categories here so I can revisit the decisions I made while learning. Some are course exercises and others are practical experiments. I retain the original sources and licenses where they apply.
 
 ## 📂 Explore my projects
 
@@ -22,6 +22,8 @@ I keep my earlier exercises and small projects here so I can revisit the decisio
 | [Shopping list](https://github.com/somilsin/Learning-Archive/tree/main/Shopping-List) | A browser application for practicing interface events and local storage. |
 | [Smart entry parking system](https://github.com/somilsin/Learning-Archive/tree/main/Smart-Entry-Parking-System) | An Arduino project for card authentication and gate control. |
 | [Ivy codebase study](https://github.com/somilsin/Learning-Archive/tree/main/ivy) | The framework codebase I kept for studying interoperability. |
+
+| [My interactive portfolio](somilsin_portfolio/README.md) | My React website with chapters, interactive scenes and links to my work. |
 
 ## 📝 My notes
 
@@ -38,3 +40,4 @@ I treat the archive as a record of learning. I check each project before describ
 ## Explore My Other Work
 
 | [Artificial Intelligence](https://github.com/somilsin/Artificial-Intelligence) | [Machine Learning](https://github.com/somilsin/Machine-Learning) | [Computer Vision](https://github.com/somilsin/Computer-Vision) | [Learning Archive](https://github.com/somilsin/Learning-Archive) |
+| :---: | :---: | :---: | :---: |

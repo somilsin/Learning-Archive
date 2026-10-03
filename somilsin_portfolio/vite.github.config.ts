@@ -18,7 +18,7 @@ export default defineConfig({
         },
       },
       sitemap: {
-        host: "https://somilsin.github.io/somilsin_portfolio",
+        host: "https://somilsin.github.io/Artificial-Intelligence/portfolio",
       },
       prerender: {
         failOnError: false,

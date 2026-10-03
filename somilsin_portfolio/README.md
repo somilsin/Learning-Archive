@@ -1,66 +1,30 @@
-# Somil Singh — Portfolio
+<div align="center">
 
-AI & Computer Vision Engineer portfolio built with TanStack Start, React, Tailwind CSS, and canvas-driven particle effects.
+# 🌌 My Interactive Portfolio
 
-## Live URLs
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![My Portfolio](https://img.shields.io/badge/By-Somil%20Singh-6E40C9?style=for-the-badge)
 
-- **GitHub Pages:** https://somilsin.github.io/somilsin_portfolio/
+</div>
 
-## Running locally
+[← Learning Archive](../README.md)
+
+I built this portfolio with React and TanStack Start. I use chapters to present my work and interactive scenes to make the site feel personal. The source includes particle effects, a skills scene and links to my projects.
+
+## Run my site locally
 
 ```bash
-bun install
+bun install --frozen-lockfile
 bun run dev
 ```
 
-## Deploy to GitHub Pages
+## Build the published version
 
-### Recommended setup — user/org site at `https://somilsin.github.io`
-
-1. Create a new empty repository on GitHub named **`somilsin.github.io`**.
-2. Add it as a remote and push this project:
-
-   ```bash
-   git remote add github https://github.com/somilsin/somilsin.github.io.git
-   git push github main
-   ```
-
-3. On the GitHub repo, go to **Settings → Pages → Build and deployment**.
-4. Select **GitHub Actions** as the source.
-5. The included `.github/workflows/deploy.yml` will build and deploy automatically.
-
-The site will be live at `https://somilsin.github.io/`.
-
-### Project page (`https://somilsin.github.io/<repo-name>/`)
-
-If your repository is not named `<username>.github.io`, update the build command in `.github/workflows/deploy.yml`:
-
-```yaml
-env:
-  GH_PAGES_BASE: "/<repo-name>/"
-```
-
-and in your local build:
+I keep this source in Learning Archive. The public website assets are hosted with my other websites in Artificial Intelligence.
 
 ```bash
-GH_PAGES_BASE="/<repo-name>/" bun run build:static
+GH_PAGES_BASE=/Artificial-Intelligence/portfolio/ bun run build:static
 ```
 
-### Deploy manually with `gh-pages`
+The static build writes `dist/client` with an index page and a fallback page. The root category workflow builds a preview artifact for this folder. The website is published at [my portfolio](https://somilsin.github.io/Artificial-Intelligence/portfolio/) after the generated assets are verified.
 
-```bash
-bun run deploy:gh-pages
-```
-
-This builds the static site and pushes `dist/client` to the `gh-pages` branch. You still need push access to the GitHub repository.
-
-## Build configurations
-
-- `vite.config.ts` — default Lovable/Cloudflare SSR build.
-- `vite.github.config.ts` — static SPA build used only for GitHub Pages.
-- `scripts/build-static.js` — runs the static build, renames `_shell.html` to `index.html`, copies a `404.html` fallback, and writes `.nojekyll`.
-
-## Notes
-
-- The static build pre-renders the home route (`/`) and relies on the SPA fallback for client-side navigation.
-- The `404.html` file ensures that deep links work when GitHub Pages serves a missing route.
+I retain the Lovable project instructions and published history in the repository backup. Repository consolidation changes the source location. Existing external editor integrations need their repository target updated before they can sync future edits.

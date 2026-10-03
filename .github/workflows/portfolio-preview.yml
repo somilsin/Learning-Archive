@@ -1,0 +1,32 @@
+name: Build portfolio website
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'somilsin_portfolio/**'
+      - '.github/workflows/portfolio-preview.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: somilsin_portfolio
+    steps:
+      - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+      - name: Install locked dependencies
+        run: bun install --frozen-lockfile
+      - name: Build portfolio for its new path
+        run: bun run build:static
+        env:
+          GH_PAGES_BASE: /Artificial-Intelligence/portfolio/
+      - uses: actions/upload-artifact@v4
+        with:
+          name: portfolio-site
+          path: somilsin_portfolio/dist/client
+          include-hidden-files: true
