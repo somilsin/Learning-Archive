@@ -25,6 +25,8 @@ I keep my exercises, earlier projects and work outside my three main technical c
 
 | [My interactive portfolio](somilsin_portfolio/README.md) | My React website with chapters, interactive scenes and links to my work. |
 
+| [Infinite Archive](pixel-perfect-replica/README.md) | My museum style interface with wings, entry cards and a post composition workspace. |
+
 ## 📝 My notes
 
 The parking system currently uses Radio Frequency Identification rather than a camera. I keep it here with my hardware learning work.

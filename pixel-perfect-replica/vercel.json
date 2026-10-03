@@ -1,0 +1,6 @@
+{
+  "name": "the-infinite-museum",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}
