@@ -1,78 +1,40 @@
-# 📘 Learning-Archive
+<div align="center">
 
-**Maintained by [Somil Singh](https://github.com/skywalkerrre) — Software Engineer & AI Enthusiast**
+# 📚 Learning Archive
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-Frameworks-green?logo=ai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Self--Learning-Discipline-success?logo=bookstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Research--Driven-Focus-purple?logo=academia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open--Source-Contribution-orange?logo=github&logoColor=white" />
-</p>  
+### The exercises and projects I learned from
 
----
+![Category](https://img.shields.io/badge/Learning%20Archive-238636?style=for-the-badge)
+![Maintained by Somil Singh](https://img.shields.io/badge/Maintained%20by-Somil%20Singh-58A6FF?style=for-the-badge&logo=github&logoColor=white)
 
-## 📂 Repository Structure
+</div>
 
-### 🔹 Complete-Python-3-Bootcamp
+## 🔎 What I keep here
 
-* Comprehensive exercise set from the **Udemy “Complete Python 3 Bootcamp”**.
-* ✅ Completed **all exercises**, from basic syntax to advanced concepts (OOP, decorators, error handling, data structures).
-* Strengthened foundations in **clean coding, modular design, and practical Python problem-solving**.
-* Demonstrates **consistency, discipline, and end-to-end completion of a structured curriculum**.
+I keep my earlier exercises and small projects here so I can revisit the decisions I made while learning. Some are course exercises and others are practical experiments. I retain the original sources and licenses where they apply.
 
-### 🔹 Ivy (Harvard-Inspired Project)
+## 📂 Explore my projects
 
-* Analyzed and forked a complex open-source codebase as part of a **\$50 paid task**.
-* Objective: research how to **merge multiple Python AI frameworks under a unified umbrella**.
-* Result: significantly enhanced my understanding of **AI ecosystem interoperability**, framework-level design decisions, and cross-framework abstractions.
-* Directly contributed to my **research interest in intelligent system integration and framework unification**.
+| Project | What is inside |
+| --- | --- |
+| [Complete Python 3 Bootcamp](https://github.com/somilsin/Learning-Archive/tree/main/Complete-Python-3-Bootcamp) | Python exercises and notebook examples from the course. |
+| [Cybersecurity reconnaissance tools](https://github.com/somilsin/Learning-Archive/tree/main/Cybersecurity-Reconnaissance-Tools) | Network reconnaissance code and supporting data. |
+| [Shopping list](https://github.com/somilsin/Learning-Archive/tree/main/Shopping-List) | A browser application for practicing interface events and local storage. |
+| [Smart entry parking system](https://github.com/somilsin/Learning-Archive/tree/main/Smart-Entry-Parking-System) | An Arduino project for card authentication and gate control. |
+| [Ivy codebase study](https://github.com/somilsin/Learning-Archive/tree/main/ivy) | The framework codebase I kept for studying interoperability. |
 
-### 🔹 Shopping-List
+## 📝 My notes
 
-* A Python application implementing **CRUD operations, persistent storage, and user interaction**.
-* Focused on applying **software engineering principles** like modularity, maintainability, and usability.
-* Demonstrates my ability to turn **small-scale ideas into functioning, user-friendly tools**.
+The parking system currently uses Radio Frequency Identification rather than a camera. I keep it here with my hardware learning work.
 
----
+I treat the archive as a record of learning. I check each project before describing it as a finished application.
 
-## 🎯 Purpose
+<div align="center">
 
-* **Academic Focus:**
-  Showcase a mix of **structured learning (Bootcamp)**, **applied research exposure (Ivy)**, and **hands-on implementation (Shopping-List)** to demonstrate readiness for **graduate-level study in AI and software systems**.
+[Explore my GitHub profile](https://github.com/somilsin)
 
-* **Industry Relevance:**
-  Highlight **clean code practices**, **problem-solving mindset**, and the ability to **work with real-world codebases and build practical tools**.
+</div>
 
----
+## Explore My Other Work
 
-## 🧠 Next Steps
-
-* Expand repository with:
-
-  * ✅ **Machine learning experiments** (scikit-learn, PyTorch, etc.)
-  * ✅ **Data engineering pipelines**
-  * ✅ **Testing frameworks + CI/CD integration**
-* Refactor selected projects into **production-grade applications**.
-* Document learnings in a **personal wiki** within the repo for future reference.
-
----
-
-## 🔍 Why This Archive Matters
-
-| Dimension                  | Contribution                                          |
-| -------------------------- | ----------------------------------------------------- |
-| 🧠 **Depth of Learning**   | Completed entire Python Bootcamp with exercises       |
-| 🧩 **Codebase Analysis**   | Forked & studied Ivy AI framework integration         |
-| 🛠️ **Practical Builds**   | Created functional Python tools (e.g., Shopping-List) |
-| 📚 **Research Motivation** | Inspired future work in AI systems & unification      |
-| 💼 **Industry Readiness**  | Demonstrates software craftsmanship and initiative    |
-
----
-
-## 📎 Notes
-
-> This archive is actively maintained as part of my ongoing journey to deepen my understanding of **AI, Python frameworks, and real-world software development**.
-> Every project here was selected to reflect a **deliberate learning goal**, **research curiosity**, or **practical skill-building exercise**.
-
----
+| [Artificial Intelligence](https://github.com/somilsin/Artificial-Intelligence) | [Machine Learning](https://github.com/somilsin/Machine-Learning) | [Computer Vision](https://github.com/somilsin/Computer-Vision) | [Learning Archive](https://github.com/somilsin/Learning-Archive) |
