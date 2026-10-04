@@ -33,4 +33,4 @@ bun run dev
 
 I keep this code in Learning Archive because it sits outside my Artificial Intelligence, Machine Learning and Computer Vision project collections. Its previous private repository is now included publicly with my approval.
 
-[Existing website](https://pixel-perfect-replica-delta-eight.vercel.app/)
+The former Vercel deployment is currently unavailable. I use this folder as the source reference and verify a replacement deployment before sharing a live link.
