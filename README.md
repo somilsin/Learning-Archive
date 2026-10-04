@@ -42,7 +42,6 @@ I keep earlier projects, course exercises and work outside my three main technic
 * Shopping List: Adding and removing list items.
 * Smart Entry Parking System: Registered card authentication.
 * Ivy Framework Codebase Study: Framework interoperability code.
-* Interactive Portfolio Website: Project chapters and research links.
 * Infinite Archive: Museum wings and entry cards.
 
 <br>
@@ -58,7 +57,6 @@ I keep earlier projects, course exercises and work outside my three main technic
 | [Shopping List](Shopping-List/ReadMe.md) | I use this browser application to practice interface events and state handling. It stores shopping items in local storage so they survive a page refresh. |
 | [Smart Entry Parking System](Smart-Entry-Parking-System/README.md) | I use an Arduino and a Radio Frequency Identification reader to explore parking entry authentication. Registered cards control a servo gate and a Bluetooth command provides guest entry. |
 | [Ivy Framework Codebase Study](ivy/README.md) | I keep the Ivy codebase as a reference for understanding how numerical and machine learning frameworks can share an interface. This is my study copy of an existing open source project. |
-| [Interactive Portfolio Website](somilsin_portfolio/README.md) | I built my portfolio with React and TanStack Start. I use chapters, interactive scenes and links to present my experience and projects. |
 | [Infinite Archive](pixel-perfect-replica/README.md) | I developed a museum style interface with wings, entry cards and reveal effects. I keep the prototype here with its React source and Lovable project context. |
 
 <br>
@@ -92,7 +90,7 @@ I open the README in the project folder I want to use. Each project has its own 
 
 ---
 
-I use this archive as a record of learning and earlier projects. The portfolio website is verified at its new path. Infinite Archive is a source prototype whose generation server deployment remains unverified. The parking project uses card authentication rather than a camera.
+I use this archive as a record of learning and earlier projects. Infinite Archive is a source prototype whose generation server deployment remains unverified. The parking project uses card authentication rather than a camera.
 
 <br>
 
