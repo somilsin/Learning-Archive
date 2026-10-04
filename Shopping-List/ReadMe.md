@@ -1,63 +1,116 @@
-# 🛒 Shopping List 
+<!-- Shared decorative layout inspired by my original vision README and profile README. -->
+<div align="center">
 
-**Maintained by [Somil Singh](https://github.com/skywalkerrre) — Software Engineer & AI Enthusiast**
+<h1>🛒 Shopping List</h1>
+<h3><code>Browser events, filtering and local persistence</code></h3>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff) ![LocalStorage](https://img.shields.io/badge/LocalStorage-API-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=fff) ![Frontend](https://img.shields.io/badge/Focus-Frontend_Development-blueviolet?style=for-the-badge)
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Browser%20events%2C%20filtering%20and%20local%20persistence;Learn+it.+Build+it.+Explain+it." alt="Browser events, filtering and local persistence" />
 
-A Vanilla JavaScript shopping list application designed to practice and demonstrate core front-end development concepts.
+<p>
+<img src="https://img.shields.io/badge/Learning%20Archive-6E40C9?style=for-the-badge" alt="Learning Archive" />
+<img src="https://img.shields.io/badge/Maintained%20by%20Somil%20Singh-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Maintained by Somil Singh" />
 
----
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge" alt="CSS" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge" alt="JavaScript" />
+</p>
 
-📘 Repository Description
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/somil-singh)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somils@andrew.cmu.edu)
 
-The Shopping List project is a lightweight front-end application built with Vanilla JavaScript to demonstrate and practice core front-end development concepts.
+[Open this project](https://github.com/somilsin/Learning-Archive/tree/main/Shopping-List) · [My GitHub](https://github.com/somilsin) · [My portfolio](https://somilsin.github.io/Artificial-Intelligence/portfolio/)
 
-The application allows users to add, remove, and search shopping list items dynamically, while persisting the data using the Local Storage API, ensuring items remain even after a page refresh.
+</div>
 
-This project focuses on DOM manipulation, state handling, and browser-based persistence while maintaining a clean, responsive UI.
+<br>
 
-📂 Project Overview
-
-➕ Developed a shopping list app with the ability to dynamically add and remove items.
-
-🔍 Implemented real-time search & filtering for improved usability.
-
-💾 Leveraged Local Storage API to persist items across sessions.
-
-🎨 Built a clean, minimal responsive UI with smooth interactions.
-
-🗂 Practiced DOM event handling, state management, and traversal techniques.
+## 📖 About This Repository
 
 ---
 
-🛠️ Tech Stack
+I use this browser application to practice interface events and state handling. It stores shopping items in local storage so they survive a page refresh.
 
-JavaScript (ES6+) → Core logic, DOM manipulation, event handling, state management.
+<br>
 
-HTML5 → Page structure.
-
-CSS3 → Styling and responsiveness.
-
-Local Storage API → Persistence layer for storing shopping list data.
+## 🚀 Key Implementations
 
 ---
 
-🎯 Purpose
+* Adding and removing list items
+* Search and filtering
+* Local storage persistence
 
-Skill Development → Strengthen understanding of DOM traversal, state handling, and event-driven design.
+<br>
 
-Frontend Practice → Build a practical, usable project using vanilla JavaScript without frameworks.
+## 🎓 Project Guide
 
-Scalability Mindset → Prepare for migration to React/Preact for component-driven architecture.
+---
+
+I keep the page structure in [index.html](index.html), the interface styling in [style.css](style.css) and the browser logic in [script.js](script.js).
+
+The application adds and removes items then filters the visible list. Local storage keeps the list available after a page refresh.
+
+<br>
+
+## 🛠️ Tech Stack
 
 ---
 
-🚀 Future Improvements
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS, JavaScript" />
+</p>
 
-✏️ Add edit functionality for existing items.
+`HTML` · `CSS` · `JavaScript`
 
-🌙 Implement dark mode toggle for better accessibility.
+<br>
 
-⚛️ Transition to React/Preact for modular component-based development.
+## ⚙️ Getting Started
 
 ---
+
+```bash
+git clone https://github.com/somilsin/Learning-Archive.git
+cd Learning-Archive/Shopping-List
+```
+
+I open `index.html` in a browser or serve the folder with a local static server.
+
+<br>
+
+## 📝 My Notes and Results
+
+---
+
+I use this project to practice document events, state handling and browser persistence. Editing an existing item and adding a dark theme were ideas in my earlier notes rather than verified completed features.
+
+<br>
+
+## 📚 References and Credit
+
+---
+
+I retain the source context and any existing licenses with the project. The category move changes the location of the files rather than their ownership.
+
+<br>
+
+## 🗂️ Explore My Other Work
+
+---
+
+| [Artificial Intelligence](https://github.com/somilsin/Artificial-Intelligence) | [Machine Learning](https://github.com/somilsin/Machine-Learning) | [Computer Vision](https://github.com/somilsin/Computer-Vision) | [Learning Archive](https://github.com/somilsin/Learning-Archive) |
+| :---: | :---: | :---: | :---: |
+
+<br>
+
+<div align="center">
+
+### Get In Touch
+
+I share my learning and projects here. Connect with me on [LinkedIn](https://linkedin.com/in/somil-singh) or explore [my portfolio](https://somilsin.github.io/Artificial-Intelligence/portfolio/).
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/somil-singh)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somils@andrew.cmu.edu)
+
+*Thanks for stopping by!*
+
+</div>

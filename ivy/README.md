@@ -1,10 +1,10 @@
 <!-- Shared decorative layout inspired by my original vision README and profile README. -->
 <div align="center">
 
-<h1>🐍 Complete Python 3 Bootcamp</h1>
-<h3><code>Course exercises and Python practice</code></h3>
+<h1>🌿 Ivy Framework Codebase Study</h1>
+<h3><code>Studying numerical framework interoperability</code></h3>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Course%20exercises%20and%20Python%20practice;Learn+it.+Build+it.+Explain+it." alt="Course exercises and Python practice" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Studying%20numerical%20framework%20interoperability;Learn+it.+Build+it.+Explain+it." alt="Studying numerical framework interoperability" />
 
 <p>
 <img src="https://img.shields.io/badge/Learning%20Archive-6E40C9?style=for-the-badge" alt="Learning Archive" />
@@ -16,7 +16,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/somil-singh)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somils@andrew.cmu.edu)
 
-[Open this project](https://github.com/somilsin/Learning-Archive/tree/main/Complete-Python-3-Bootcamp) · [My GitHub](https://github.com/somilsin) · [My portfolio](https://somilsin.github.io/Artificial-Intelligence/portfolio/)
+[Open this project](https://github.com/somilsin/Learning-Archive/tree/main/ivy) · [My GitHub](https://github.com/somilsin) · [My portfolio](https://somilsin.github.io/Artificial-Intelligence/portfolio/)
 
 </div>
 
@@ -26,7 +26,7 @@
 
 ---
 
-I keep these course notebooks as a reference for Python fundamentals and practice. The course material belongs to Pierian Data and I retain its source credit.
+I keep the Ivy codebase as a reference for understanding how numerical and machine learning frameworks can share an interface. This is my study copy of an existing open source project.
 
 <br>
 
@@ -34,9 +34,9 @@ I keep these course notebooks as a reference for Python fundamentals and practic
 
 ---
 
-* Python course notebooks
-* Exercises and worked examples
-* A reference for revisiting language fundamentals
+* Framework interoperability code
+* Numerical operations and backend interfaces
+* Original project documentation and license
 
 <br>
 
@@ -46,14 +46,9 @@ I keep these course notebooks as a reference for Python fundamentals and practic
 
 ### Overview
 
-Course Files for Complete Python 3 Bootcamp Course on Udemy
+[Original Ivy documentation](README.rst)
 
-Copyright(©) by Pierian Data Inc.
-
-Get it now for 95% off with the link:
-https://www.udemy.com/complete-python-bootcamp/?couponCode=COMPLETE_GITHUB
-
-Thanks!
+I retain the original project README and license. This folder is my reference copy for codebase study.
 
 <br>
 
@@ -75,10 +70,10 @@ Thanks!
 
 ```bash
 git clone https://github.com/somilsin/Learning-Archive.git
-cd Learning-Archive/Complete-Python-3-Bootcamp
+cd Learning-Archive/ivy
 ```
 
-I open the course notebook I want to study in a Python notebook environment. Dependencies vary between exercises.
+I start with the original [README.rst](README.rst) for the library setup and backend instructions.
 
 <br>
 
@@ -94,11 +89,7 @@ I use this folder to revisit the implementation choices and explain what I learn
 
 ---
 
-Course files for Complete Python 3 Bootcamp on Udemy. Copyright © Pierian Data Inc.
-
-[Original course](https://www.udemy.com/complete-python-bootcamp/)
-
-I keep these exercises for my learning and retain the original source credit.
+Ivy is an existing open source library. I did not create the framework. I preserve its original [documentation](README.rst) and license in this study copy.
 
 <br>
 
