@@ -1,7 +1,8 @@
 <div align="center">
 
-<h1>🐍 Complete Python 3 Bootcamp</h1>
-<h3><code>Course exercises and Python practice</code></h3>
+# 🐍 Complete Python 3 Bootcamp
+
+### Course exercises and Python practice
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Course%20exercises%20and%20Python%20practice;Learn+it.+Build+it.+Explain+it." alt="Course exercises and Python practice" />
 
@@ -22,16 +23,69 @@
 
 </div>
 
-<br>
+---
+
+## 📖 About This Repository
 
 These are the course notebooks I use to revisit Python fundamentals and practise with the exercises.
 
-## ⚙️ Open the notebooks
+---
+
+## 🚀 Key Implementations
+
+* Python course notebooks
+* Exercises and worked examples
+* A reference for revisiting language fundamentals
+
+---
+
+## 🎓 Project Guide
+
+Course notebooks and exercises for revisiting Python fundamentals. I open the topic I want to work through and keep the course's original material together.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" />
+</p>
+
+`Python`
+
+---
+
+## ⚙️ Getting Started
+
+```bash
+git clone https://github.com/somilsin/Learning-Archive.git
+cd Learning-Archive/Complete-Python-3-Bootcamp
+```
 
 Open the notebook you want to work through in a Python notebook environment. Individual exercises may need additional packages.
 
-## 📚 Course credit
+---
+
+## 📚 References and Credit
 
 Course files for [Complete Python 3 Bootcamp on Udemy](https://www.udemy.com/complete-python-bootcamp/).
 
 Copyright © Pierian Data Inc. The course material belongs to its original authors.
+
+---
+
+<div align="center">
+
+### Get In Touch
+
+If you'd like to chat about the work, you can reach me on [LinkedIn](https://linkedin.com/in/somil-singh).
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/somil-singh)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somils@andrew.cmu.edu)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Skywalkerlyzv)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@thesomilsinghofficial)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://thesomilsingh.substack.com/)
+
+*Thanks for stopping by!*
+
+</div>

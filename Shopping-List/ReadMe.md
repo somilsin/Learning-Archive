@@ -1,7 +1,8 @@
 <div align="center">
 
-<h1>🛒 Shopping List</h1>
-<h3><code>Browser events, filtering and local persistence</code></h3>
+# 🛒 Shopping List
+
+### Browser events, filtering and local persistence
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Browser%20events%2C%20filtering%20and%20local%20persistence;Learn+it.+Build+it.+Explain+it." alt="Browser events, filtering and local persistence" />
 
@@ -24,12 +25,67 @@
 
 </div>
 
-<br>
+---
+
+## 📖 About This Repository
 
 I made this while practising browser events and state. You can add or remove items, filter the list and keep it between page refreshes with local storage.
 
-## ⚙️ Try it
+---
+
+## 🚀 Key Implementations
+
+* Adding and removing list items
+* Search and filtering
+* Local storage persistence
+
+---
+
+## 🎓 Project Guide
+
+The page is in [index.html](index.html), the styling is in [style.css](style.css) and the list logic is in [script.js](script.js).
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS, JavaScript" />
+</p>
+
+`HTML` · `CSS` · `JavaScript`
+
+---
+
+## ⚙️ Getting Started
+
+```bash
+git clone https://github.com/somilsin/Learning-Archive.git
+cd Learning-Archive/Shopping-List
+```
 
 Open [index.html](index.html) in your browser or serve this folder with a local static server.
 
-The styling is in [style.css](style.css) and the list logic is in [script.js](script.js).
+---
+
+## 📚 References and Credit
+
+Built with HTML, CSS and JavaScript. The list is stored in the browser's local storage.
+
+---
+
+<div align="center">
+
+### Get In Touch
+
+If you'd like to chat about the work, you can reach me on [LinkedIn](https://linkedin.com/in/somil-singh).
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/somil-singh)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somils@andrew.cmu.edu)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Skywalkerlyzv)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@thesomilsinghofficial)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://thesomilsingh.substack.com/)
+
+*Thanks for stopping by!*
+
+</div>
