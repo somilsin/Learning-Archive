@@ -1,4 +1,3 @@
-<!-- Shared decorative layout inspired by my original vision README and profile README. -->
 <div align="center">
 
 <h1>📚 Learning Archive</h1>
@@ -22,101 +21,21 @@
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@thesomilsinghofficial)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://thesomilsingh.substack.com/)
 
-[Open this project](https://github.com/somilsin/Learning-Archive) · [My GitHub](https://github.com/somilsin) · [My portfolio](https://somilsin.github.io/Artificial-Intelligence/portfolio/)
+[Open this project](https://github.com/somilsin/Learning-Archive) · [My GitHub](https://github.com/somilsin) · [Main Portfolio](https://somilsin.github.io/Artificial-Intelligence/portfolio/)
 
 </div>
 
 <br>
 
-## 📖 About This Repository
+This is where I keep earlier projects, course exercises and things I've explored outside my main AI, ML and computer vision work.
 
----
+## 📂 Projects
 
-I keep earlier projects, course exercises and work outside my three main technical categories here. I retain the source context so I can revisit what I learned.
-
-<br>
-
-## 🚀 Key Implementations
-
----
-
-* Complete Python 3 Bootcamp: Python course notebooks.
-* Cybersecurity Reconnaissance Tools: Network discovery code.
-* Shopping List: Adding and removing list items.
-* Smart Entry Parking System: Registered card authentication.
-* Ivy Framework Codebase Study: Framework interoperability code.
-* Infinite Archive: Museum wings and entry cards.
-
-<br>
-
-## 🎓 Project Guide
-
----
-
-| Project | What I keep here |
+| Project | What I worked on |
 | :--- | :--- |
-| [Complete Python 3 Bootcamp](Complete-Python-3-Bootcamp/README.md) | I keep these course notebooks as a reference for Python fundamentals and practice. The course material belongs to Pierian Data and I retain its source credit. |
-| [Cybersecurity Reconnaissance Tools](Cybersecurity-Reconnaissance-Tools/README.md) | I explored remote operating system discovery and open port detection through this Python toolkit. I keep the network code and supporting database as a record of my learning. |
-| [Shopping List](Shopping-List/ReadMe.md) | I use this browser application to practice interface events and state handling. It stores shopping items in local storage so they survive a page refresh. |
-| [Smart Entry Parking System](Smart-Entry-Parking-System/README.md) | I use an Arduino and a Radio Frequency Identification reader to explore parking entry authentication. Registered cards control a servo gate and a Bluetooth command provides guest entry. |
-| [Ivy Framework Codebase Study](ivy/README.md) | I keep the Ivy codebase as a reference for understanding how numerical and machine learning frameworks can share an interface. This is my study copy of an existing open source project. |
-| [Infinite Archive](pixel-perfect-replica/README.md) | I developed a museum style interface with wings, entry cards and reveal effects. I keep the prototype here with its React source and Lovable project context. |
-
-<br>
-
-## 🛠️ Tech Stack
-
----
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,html,css,js,arduino&theme=dark" alt="Python, HTML, CSS, JavaScript, Arduino" />
-</p>
-
-`Python` · `HTML` · `CSS` · `JavaScript` · `Arduino`
-
-<br>
-
-## ⚙️ Getting Started
-
----
-
-```bash
-git clone https://github.com/somilsin/Learning-Archive.git
-cd Learning-Archive
-```
-
-I open the README in the project folder I want to use. Each project has its own dependencies and entry points.
-
-<br>
-
-## 📝 My Notes and Results
-
----
-
-I use this archive as a record of learning and earlier projects. Infinite Archive is a source prototype whose generation server deployment remains unverified. The parking project uses card authentication rather than a camera.
-
-<br>
-
-## 📚 References and Credit
-
----
-
-I retain course credit and original licenses in the individual project folders. Reorganizing the source does not change its authorship or license.
-
-<br>
-
-<div align="center">
-
-### Get In Touch
-
-I share my learning and projects here. Connect with me on [LinkedIn](https://linkedin.com/in/somil-singh) or explore [my portfolio](https://somilsin.github.io/Artificial-Intelligence/portfolio/).
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/somil-singh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somils@andrew.cmu.edu)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Skywalkerlyzv)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@thesomilsinghofficial)
-[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://thesomilsingh.substack.com/)
-
-*Thanks for stopping by!*
-
-</div>
+| [Python Bootcamp](Complete-Python-3-Bootcamp/README.md) | Python fundamentals and course exercises from Pierian Data. |
+| [Cybersecurity Reconnaissance Tools](Cybersecurity-Reconnaissance-Tools/README.md) | Remote OS discovery, port scanning and SQLite. |
+| [Shopping List](Shopping-List/ReadMe.md) | Browser events and a list that persists in local storage. |
+| [Smart Entry Parking System](Smart-Entry-Parking-System/README.md) | RFID entry, a servo gate and Bluetooth guest access. |
+| [Ivy codebase study](ivy/README.md) | Studying an existing framework and its backend interfaces. |
+| [Infinite Archive](pixel-perfect-replica/README.md) | A museum style interface for collecting ideas. |

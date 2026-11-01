@@ -1,4 +1,3 @@
-<!-- Shared decorative layout inspired by my original vision README and profile README. -->
 <div align="center">
 
 <h1>🏛️ Infinite Archive</h1>
@@ -22,109 +21,25 @@
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@thesomilsinghofficial)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://thesomilsingh.substack.com/)
 
-[Open this project](https://github.com/somilsin/Learning-Archive/tree/main/pixel-perfect-replica) · [My GitHub](https://github.com/somilsin) · [My portfolio](https://somilsin.github.io/Artificial-Intelligence/portfolio/)
+[Open this project](https://github.com/somilsin/Learning-Archive/tree/main/pixel-perfect-replica) · [My GitHub](https://github.com/somilsin) · [Main Portfolio](https://somilsin.github.io/Artificial-Intelligence/portfolio/)
 
 </div>
 
 <br>
 
-## 📖 About This Repository
+I used Infinite Archive to explore a museum style interface for collecting ideas. It has themed wings, entry cards, reveal effects and a workspace for composing posts with slide previews.
 
----
+## ✨ What's here
 
-I developed a museum style interface with wings, entry cards and reveal effects. I keep the prototype here with its React source and Lovable project context.
+* React and TypeScript components for the wings and entries.
+* Custom cursor and scroll effects.
+* Post composition, slide previews and image download helpers.
 
-<br>
-
-## 🚀 Key Implementations
-
----
-
-* Museum wings and entry cards
-* Post composition workspace with slide previews
-* Image download helpers and reveal effects
-
-<br>
-
-## 🎓 Project Guide
-
----
-
-### Overview
-
-I use Infinite Archive to explore a museum style interface for collecting ideas. Each wing has its own subject and the interface includes entry cards, reveal effects and a post composition workspace.
-
-### What I keep here
-
-• My React and TypeScript interface with custom cursor and scroll effects.
-
-• Wing and entry data with the components that display them.
-
-• A post composition interface with slide previews and image download helpers.
-
-• The Lovable project files and the existing build configuration.
-
-The post composition interface expects a server endpoint at `/api/generate-post`. I check that backend separately before describing generation as available. A static GitHub Pages deployment alone does not supply it.
-
-<br>
-
-## 🛠️ Tech Stack
-
----
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,ts,html,css&theme=dark" alt="React, TypeScript, HTML, CSS" />
-</p>
-
-`React` · `TypeScript` · `HTML` · `CSS`
-
-<br>
-
-## ⚙️ Getting Started
-
----
-
-### Run the project
+## ⚙️ Run locally
 
 ```bash
 bun install --frozen-lockfile
 bun run dev
 ```
 
-I keep this code in Learning Archive because it sits outside my Artificial Intelligence, Machine Learning and Computer Vision project collections. Its previous private repository is now included publicly with my approval.
-
-The former Vercel deployment is currently unavailable. I use this folder as the source reference and verify a replacement deployment before sharing a live link.
-
-<br>
-
-## 📝 My Notes and Results
-
----
-
-I use this folder to revisit the implementation choices and explain what I learned. The source is preserved here; I make execution claims only where I have recorded the outputs.
-
-<br>
-
-## 📚 References and Credit
-
----
-
-I retain the source context and any existing licenses with the project. The category move changes the location of the files rather than their ownership.
-
-<br>
-
-<div align="center">
-
-### Get In Touch
-
-I share my learning and projects here. Connect with me on [LinkedIn](https://linkedin.com/in/somil-singh) or explore [my portfolio](https://somilsin.github.io/Artificial-Intelligence/portfolio/).
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/somil-singh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somils@andrew.cmu.edu)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Skywalkerlyzv)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@thesomilsinghofficial)
-[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://thesomilsingh.substack.com/)
-
-*Thanks for stopping by!*
-
-</div>
+The post composer expects a backend at `/api/generate-post`. A static GitHub Pages deployment won't provide that endpoint.
